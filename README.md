@@ -1,6 +1,6 @@
-# ownCloud Shell Integrations resources
+# `OpenCloud Desktop` Shell Integrations resources
 
 This package provides the icons used in:
 
-- https://github.com/owncloud/client-desktop-shell-integration-dolphin
-- https://github.com/owncloud/client-desktop-shell-integration-nautilus
+- https://github.com/opencloud-eu/desktop-shell-integration-dolphin
+- https://github.com/opencloud-eu/desktop-shell-integration-nautilus
