@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="128.001px" height="128.001px" viewBox="0 0 128.001 128.001" style="enable-background:new 0 0 128.001 128.001;"
+	 xml:space="preserve">
+<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#F09947;" d="M110.207,92.416c9.825,0,17.794,7.968,17.794,17.793
+	c0,9.824-7.969,17.792-17.794,17.792c-9.824,0-17.791-7.968-17.791-17.792C92.416,100.384,100.383,92.416,110.207,92.416"/>
+<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M111.898,114.753h-3.382c-0.62,0-1.128-0.509-1.128-1.127
+	v-13.14c0-0.62,0.507-1.127,1.128-1.127h3.382c0.621,0,1.128,0.507,1.128,1.127v13.14
+	C113.026,114.246,112.52,114.753,111.898,114.753"/>
+<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M111.898,121.847h-3.382c-0.62,0-1.128-0.508-1.128-1.128
+	v-2.892c0-0.62,0.507-1.128,1.128-1.128h3.382c0.621,0.001,1.128,0.507,1.128,1.128v2.892
+	C113.026,121.339,112.52,121.847,111.898,121.847"/>
+</svg>
