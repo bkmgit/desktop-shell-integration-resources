@@ -28,7 +28,7 @@ if( UNIX AND NOT APPLE )
     configure_package_config_file(
             "${CMAKE_CURRENT_SOURCE_DIR}/OpenCloudShellResourcesConfig.cmake.in"
             "${CMAKE_CURRENT_BINARY_DIR}/OpenCloudShellResourcesConfig.cmake"
-            INSTALL_DESTINATION "${CMAKE_INSTALL_LIBDIR}/cmake/OpenCloudShellResources"
+            INSTALL_DESTINATION "${CMAKE_INSTALL_DATADIR}/cmake/OpenCloudShellResources"
     )
 
     ecm_setup_version(PROJECT
@@ -37,7 +37,7 @@ if( UNIX AND NOT APPLE )
     install(FILES
             "${CMAKE_CURRENT_BINARY_DIR}/OpenCloudShellResourcesConfig.cmake"
             "${CMAKE_CURRENT_BINARY_DIR}/OpenCloudShellResourcesConfigVersion.cmake"
-            DESTINATION "${CMAKE_INSTALL_LIBDIR}/cmake/OpenCloudShellResources"
+            DESTINATION "${CMAKE_INSTALL_DATADIR}/cmake/OpenCloudShellResources"
             COMPONENT Devel
     )
 endif()
